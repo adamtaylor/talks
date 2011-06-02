@@ -51,7 +51,6 @@
 
 
 <!SLIDE>
-# XT::Order::Role::Parser #
 
     @@@ perl
     package XT::Order::Role::Parser;
@@ -75,6 +74,7 @@
     1;
 
 <!SLIDE>
+
     @@@ perl
     package XT::Order::Importer
 
@@ -101,3 +101,7 @@
     }
 
     1;
+
+<!SLIDE full-page>
+
+![XT::Data::Order](img/XT-Data-Order.png)
