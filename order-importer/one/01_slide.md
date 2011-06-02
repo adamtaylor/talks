@@ -104,4 +104,4 @@
 
 <!SLIDE full-page>
 
-![XT::Data::Order](/img/XT-Data-Order.png)
+![XT::Data::Order](../img/XT-Data-Order.png)
