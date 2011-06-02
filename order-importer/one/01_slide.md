@@ -19,6 +19,10 @@
 * XT::Data::Order
 * XT::Order::Importer
 
+<!SLIDE full-page>
+
+![Order Importer Overview](../img/OrderImporterProcess.png)
+
 <!SLIDE>
 # XT::Order::Parser #
 
